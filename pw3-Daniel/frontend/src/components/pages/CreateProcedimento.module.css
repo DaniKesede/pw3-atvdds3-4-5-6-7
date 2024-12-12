@@ -1,0 +1,34 @@
+.container{
+    background-color:#f3d2ee; /*container*/
+    color: rgb(235, 228, 228);
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    padding: 50px ;
+    width: 300px;
+    justify-content: center;
+    border-radius: 20px;
+    height: 300px;
+    
+}
+
+.button_cad {
+    color: #ffffff;
+    min-width: 200px;
+    width: 250px;
+    
+
+}
+
+.texto{
+    border-radius: 100px;
+    width: 270px;
+    line-height: 25px;
+    color: white;
+}
+
+.criar{
+    border-radius: 10px;
+    color: #ebc9e5;
+    background-color: rgb(161, 17, 17);
+}

@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f3d2ee;
+    padding: 1em;
+    border-radius: 20px;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item{
+    margin-right: 1em;
+    color: #a3a24f;
+}
+
+.logo{
+    width: 120PX;
+}
